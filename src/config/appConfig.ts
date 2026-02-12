@@ -2,15 +2,15 @@ export const appConfig = {
   // App Info
   appName: "Die With Us",
   tagline: "A calm, anonymous chat for low-battery moments",
-  latestVersion: "1.0.0",
+  latestVersion: "7.0.0",
   releaseStatus: "First Public Release",
   
   // URLs
-  androidDownloadUrl: "https://leqs6a0n9utb3ghn.public.blob.vercel-storage.com/Die%20WIth%20Us.apk",
+  androidDownloadUrl: "https://leqs6a0n9utb3ghn.public.blob.vercel-storage.com/app/Die%20With%20Us.apk",
   websiteUrl: "https://diewithme.shapemysite.in",
   
   // Support
-  supportEmail: "jvdhussain2008@gmail.com",
+  supportEmail: "diewithus.team@gmail.com",
   
   // Features
   adsEnabled: false,
